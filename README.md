@@ -7,6 +7,7 @@
 <br> : 줄바꿈
 <p></p> : 문단 표시 (paragraph)
 <img> : 이미지 표시
+<a></a> : 링크 (href="주소이름", target="blank" : 새창 띄우기)
 
 <li></li> : 목록(항목) 만들기 (list)
 
